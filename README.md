@@ -1,4 +1,12 @@
-### Hi there 👋
+### Saluations 👋
+
+My name is Hunter Trahan, I am a professional video game programmer currently living in Lousiana.
+
+You can contact me at: hunter.trahan28@gmail.com
+
+### Helpful Links
+Linkedin
+Resume
 
 <!--
 **HunterTrahan/HunterTrahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
