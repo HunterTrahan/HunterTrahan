@@ -5,8 +5,9 @@ My name is Hunter Trahan, I am a professional video game programmer currently li
 You can contact me at: hunter.trahan28@gmail.com
 
 ### Helpful Links
-Linkedin
-Resume
+[Linkedin]()
+
+[Resume](file:///C:/Users/s198054/Downloads/Resume.pdf)
 
 <!--
 **HunterTrahan/HunterTrahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
