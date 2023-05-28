@@ -1,6 +1,6 @@
 ### Saluations 👋
 
-My name is Hunter Trahan, I am a professional video game programmer currently living in Lousiana.
+My name is Hunter Trahan, I am a Highly skilled and motivated programmer with 2+ years of experience in developing and implementing software solutions. Specializing in C#, C++ as well as the Unreal Engine.
 
 You can contact me at: hunter.trahan28@gmail.com
 
